@@ -1,3 +1,4 @@
+google.com, pub-6183132890666656, DIRECT, f08c47fec0942fa0
 OWNERDOMAIN=msemianin.github.io
 ironsrc.com, 644645, Direct
 
